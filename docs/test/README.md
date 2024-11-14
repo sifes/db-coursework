@@ -30,7 +30,7 @@ npm run start:dev
 
 ![delete user by id](image_2024-11-12_13-26-37.png)
 
-### Task
+### Tasks
 
 **GET /tasks**
 
@@ -54,7 +54,7 @@ npm run start:dev
 
 ![delete task by id](image-11.png)
 
-### Project
+### Projects
 
 **GET /projects**
 
